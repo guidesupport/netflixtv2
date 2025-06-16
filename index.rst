@@ -3,7 +3,7 @@ Netflix.com/tv2 – Activate Netflix tv2 on your TV with a Code
 
 Visit `netflix.com/tv2 <https://www.netflix.com/tv2>`_ to activate Netflix on your smart TV, game console, PC, Mac, mobile, tablet and more by entering the on-screen code. This quick setup lets you start watching your favorite shows and movies right away.
 
-.. image:: get-started-here.png
+.. image:: get-started-button.png
    :alt: Netflix.com/tv2
    :target: #
 

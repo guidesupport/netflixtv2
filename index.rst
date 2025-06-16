@@ -107,28 +107,28 @@ Frequently Asked Questions (FAQs) About Netflix.com/tv2 Activation
 =================================================================
 
 1. What is Netflix.com/tv2 and how does it work?
-   ----------------------------------------------
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Netflix.com/tv2 is the official activation page used to link your Netflix account
    to a Smart TV or streaming device. Just enter the code displayed on your TV screen
    into the website to activate your device.
 
 2. How do I enter my Netflix TV code?
-   -----------------------------------
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Go to www.netflix.com/tv2 on a phone or computer, log in to your Netflix account,
    and enter the activation code shown on your TV to complete the sign-in process.
 
 3. Why is my Netflix TV code not working?
-   ---------------------------------------
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Your Netflix TV code may have expired or been entered incorrectly. Restart the Netflix
    app on your TV to generate a new code and make sure your internet connection is active.
 
 4. Can I activate Netflix on multiple TVs with one account?
-   ---------------------------------------------------------
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Yes, you can use your Netflix account on multiple TVs, depending on your subscription
    plan. Each TV must be activated individually using its unique code at netflix.com/tv2.
 
 5. Is netflix.com/tv2 safe to use?
-   --------------------------------
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Yes, netflix.com/tv2 is the official and secure Netflix activation site. It helps you
    sign in without entering your password directly on the TV, making the login process
    easier and safer.

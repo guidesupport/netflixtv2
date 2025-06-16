@@ -104,7 +104,7 @@ To ensure a flawless experience when using `netflix.com/tv2 <https://www.netflix
 - Use a strong internet connection for seamless streaming  
 
 Frequently Asked Questions (FAQs) About Netflix.com/tv2 Activation
-=================================================================
+------------------------------------------------------
 
 1. What is Netflix.com/tv2 and how does it work?
 -----------------------------------------------

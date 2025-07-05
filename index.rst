@@ -5,7 +5,7 @@ Visit `netflix.com/tv2 <https://www.netflix.com/tv2>`_ to activate Netflix on yo
 
 .. image:: get-started-button.png
    :alt: Netflix.com/tv2
-   :target: https://fm.ci?aHR0cHM6Ly9uZXRmbGl4dHYyaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/wwwnetflixcomtv2/
 
 
 How to Use Netflix.com/tv2 – Step-by-Step Instructions
